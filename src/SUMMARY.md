@@ -2,7 +2,7 @@
 
 [介绍](./README.md)
 
-- [播客软件](./rss/README.md)
+- [RSS 使用方法及播客软件](./rss/README.md)
   - [iTunes](./rss/itunes.md)
   - [Podcasts](./rss/podcasts.md)
   - [PeaCast](./rss/peacast.md)
